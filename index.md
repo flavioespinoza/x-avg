@@ -1,4 +1,4 @@
-# Elasticsearch moving averate aggreagations
+# Elasticsearch moving average aggreagations
 
 ```javascript
 
